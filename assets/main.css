@@ -1,0 +1,37 @@
+body{
+  background-color: dodgerblue;
+  color: red;
+ 
+}
+.box {
+  border-radius: 5%;
+  font-size: 25px;
+}
+
+.form {
+  display: flex;
+ justify-content: center;
+}
+
+.word {
+  text-align: center;
+}
+.meneger {
+  text-align: center;
+}
+.form-input {
+  background: transparent;
+  width: 600px;
+  height: 40px;
+
+}
+.form-btn {
+  background: transparent;
+  border: none;
+}
+.li {
+  list-style: none;
+}
+.audio{
+ margin-left: 75%;
+}
